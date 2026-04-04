@@ -1,1 +1,1 @@
-# GeoKrom.github.io
+[Homepage](https://geokrom.github.io/)
