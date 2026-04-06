@@ -2,7 +2,7 @@
 
 [![GeoKrom](https://img.shields.io/badge/GeoKrom-github-blue?logo=github)](https://github.com/GeoKrom)
 
-George A. Krommydas received his Diploma degree in Computer Science and Engineering from University of Ioannina, Ioannina, Greece, in 2022. He received his M.Sc. in Automation Systems, with specialization in Automatic Control and Robotic Systems, from School of Mechanical Engineering, National Technical University of Athens, Athens, Greece, in 2025. Currently, he is a Ph.D. Candidate in Automatic Control, at School of Electrical and Computer Engineering, National Technical University of Athens. His research interests focus on nonlinear control, distributed control of multi-agent systems, game theory and advanced control applications on robotics.\
+George A. Krommydas received his Diploma degree in Computer Science and Engineering from University of Ioannina, Ioannina, Greece, in 2022. He received his M.Sc. in Automation Systems, with specialization in Automatic Control and Robotic Systems, from School of Mechanical Engineering, National Technical University of Athens, Athens, Greece, in 2025. Currently, he is a Ph.D. Candidate in Automatic Control, at School of Electrical and Computer Engineering, National Technical University of Athens. His research interests focus on nonlinear control, distributed control of multi-agent systems, geometric control, game theory and advanced control applications on robotics.\
 Mr. Krommydas is a member of the Technical Chamber of Greece as an Electronic Engineer.
 
 #### Contact
@@ -19,6 +19,7 @@ M.Eng., Computer Science and Engineering, School of Engineering, University of I
 #### Research Interests
 - Nonlinear Control
 - Distributed Control of Multi-Agent Systems
+- Geometric Control
 - Game Theory
 - Advanced Control Applications on Robotics
 
