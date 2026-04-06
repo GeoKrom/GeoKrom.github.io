@@ -8,6 +8,8 @@ Mr. Krommydas is a member of the Technical Chamber of Greece as an Electronic En
 #### Contact
 
 Email: gkrommydas@mail.ntua.gr
+Tel: (+30) 210772-2502
+Office: 2.1.42, Old ECE Building
 
 #### Education
 Ph.D. Candidate in Electrical and Computer Engineering, National Technical University of Athens, 2025—Present.\
