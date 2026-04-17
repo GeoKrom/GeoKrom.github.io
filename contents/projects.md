@@ -16,6 +16,8 @@
 
 - Modelling and Simulation of a Hydraulic Servo valve and its hydraulic actuator[[code](https://github.com/GeoKrom/NTUA-Multivariable-Control-Systems-course)]
 
+- Temperature Prediction with MPC and TMP36 with arduino microcontroller[[code](https://github.com/GeoKrom/NTUA-Control-Systems-Design-course)] 
+
 - Kinematic Simulation of a 6DoF KUKA Manipulator[[code](https://github.com/GeoKrom/NTUA-Robotic-Control-Systems-course)]
 
 - Trajectory Generation for pioneer3dx robot[[code](https://github.com/GeoKrom/UoI-Robotics-course)]
