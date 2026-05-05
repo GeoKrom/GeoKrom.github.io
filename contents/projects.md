@@ -4,6 +4,8 @@
 - Modelling and Control of a 2 DoF Mini Robotic Manipulator[[Code](https://github.com/GeoKrom/UoI-Diploma-Thesis-Undergraduate-Modelling-and-Control-of-a-Two-DoF-Mini-Robotic-Manipulator)]
 
 #### Projects
+- Stochastic Dynamic Game Nash Seeking Equilibrium [[code](https://github.com/GeoKrom/NTUA-Game-Theory-course)]
+
 - Wasserstein-Based Control Architecture: From agent dynamics to optimal transport regulation[[code](https://github.com/GeoKrom/NTUA-Propabilistic-Analysis-of-Electrical-Systems-course/tree/main)]
 
 - Adaptive control of a Multiple Water Tank System[[code](https://github.com/GeoKrom/NTUA-Intelligent-Control-Systems-and-Robotic-Systems-course/tree/main/Team%20Project)]
